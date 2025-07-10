@@ -3,9 +3,9 @@ A music player made using Java's Swing, AWT and JavaFX packages.
 Can play **MP3, WAV, AIFF, AAC** files
 
 # Directions to use - 
-1.** Load the player by launching the LevantGUI class, wait for it to compile (only on the first use).**
-2.** Click on Load Song and navigate to your required file.**
-3.** Click on the ▶️ button to play and ⏸️ button to pause the playing song.**
+1. **Load the player by launching the LevantGUI class, wait for it to compile (only on the first use).**
+2. **Click on Load Song and navigate to your required file.**
+3. **Click on the ▶️ button to play and ⏸️ button to pause the playing song.**
 
 # LevantFXPlayer
 The primary player which uses JavaFX's MediaPlayer() class to play various songs.
