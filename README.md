@@ -12,6 +12,9 @@ The primary player which uses JavaFX's MediaPlayer() class to play various songs
 Has the ability to pause and resume already playing songs through functions such as play(), pause(), stop() and resume().
 Uses the Platform thread to seamlessly play songs without any threading synchronization loss to pause and play at any given instance.
 
+# LevantGUI
+Creates a sleek modern looking GUI with all necessary buttons for playback of audio files.
+
 **Note - Can only play audio files not video files as audio.**
 
 Thanks for using my app! Best regards.
